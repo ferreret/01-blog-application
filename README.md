@@ -15,7 +15,7 @@ docker-compose up -d --build
 #### Cerrar containers
 
 ```sh
-docker-compose up -d --build
+docker-compose down
 ```
 
 
